@@ -3,7 +3,9 @@ General information on Bioinfo Soc
 
 ## Schedule
 
-Locations TBC (Stopford building/S. U. meeting room), 4pm
+### _Code for Life_
+
+The first society events will be a seminar/workshop series where we bring laptops along and teach each other tools of the trade. Location TBC (Stopford building/S. U. meeting room), 4pm Fridays
 
 |Date | Presenter | Topic |
 |------------- | -------------|------------|
