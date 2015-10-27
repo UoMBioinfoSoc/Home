@@ -9,7 +9,7 @@ Locations TBC (Stopford building/S. U. meeting room), 4pm
 |------------- | -------------|------------|
 |30th Oct 2015 | Louis Maddox | git, GitHub, and Git Large File Storage|
 |6th Nov 2015 | Mark Reardon | Introduction to SQL|
-|13th Nov 2015 | LM | Jupyter code notebooks & IPython|
+|13th Nov 2015 | TBC | Jupyter code notebooks & IPython|
 |20th Nov 2015 | TBC | ggplot2 show-and-tell|
 
 ## What would you like to know?
