@@ -9,10 +9,10 @@ The first society events will be a seminar/workshop series where we bring laptop
 
 |Date | Presenter | Topic |
 |------------- | -------------|------------|
-|30th Oct 2015 | Louis Maddox | git, GitHub, and Git Large File Storage|
-|6th Nov 2015 | Mark Reardon | Introduction to SQL|
-|13th Nov 2015 | Yiying Lang | RNA-seq analysis with Cufflinks/Tophat |
-|20th Nov 2015 | TBC | ggplot2 show-and-tell|
+|6th Nov 2015 | Louis Maddox | git, GitHub, and Git Large File Storage|
+|13th Nov 2015 | Mark Reardon | Introduction to SQL|
+|20th Nov 2015 | Yiying Lang | RNA-seq analysis with Cufflinks/Tophat |
+|27th Nov 2015 | TBC | ggplot2 show-and-tell|
 
 Future events:
 
